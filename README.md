@@ -1,4 +1,19 @@
-### Hi there 👋
+## Welcome to My GitHub Account!
+
+### About Me
+Hello! I'm Alireza Goshayesh, an Android engineer passionate about building innovative and user-friendly mobile applications. This GitHub repository showcases my abilities in Android engineering, utilizing the latest technologies and libraries.
+
+Feel free to explore the repositories on my GitHub account to see my Android engineering skills in action!
+
+Contact me via email at [goshayesh.alireza@gmail.com] for questions, suggestions, or collaboration opportunities.
+
+Happy coding!
+
+<br/>
+
+> ℹ️ I have used over-engineering techniques in my small projects to demonstrate my abilities.
+
+<br/>
 
 ## &#x1f4c8; GitHub Stats
 
